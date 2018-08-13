@@ -1,6 +1,6 @@
 {
   "name": "line-intersection",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "App that shows the intersection between 2 lines or line segments",
   "main": "index.js",
   "repository": {
